@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Arju 👋
 
-<!--
-**Aarju80/Aarju80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student  
+💻 Interested in Machine Learning, Computer Vision & Automation  
+🎵 Building tech at the intersection of code and creativity  
 
-Here are some ideas to get you started:
+### 🔧 Tech
+- Python, C, Java (basic)
+- OpenCV, scikit-learn, Tkinter
+- Machine Learning (beginner), Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Crop Disease Detection System (SVM + OpenCV)
+- Hand Gesture Controlled Virtual Piano
+- Python Voice Assistant (Jarvis-style)
+
+📫 **Email:** arjuchanda80@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/arju-chanda-62a926307
